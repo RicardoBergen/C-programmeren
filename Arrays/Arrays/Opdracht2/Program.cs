@@ -6,15 +6,27 @@ namespace Opdracht2
     {
         static void Main(string[] args)
         {
-            int rij = 1;
-            for (int colom = 0; colom < 3; colom++)
+            int[,] array = new int[3, 3];
+            int nummer = 1;
+            int som;
+            for (int rij = 0; rij < 3; rij++)
             {
-                for (rij; rij < 3; rij++)
+                for (int colom = 0; colom < 3; colom++)
                 {
-                    Console.Write(rij + " ");
+                    array[rij, colom] = nummer;
+                    nummer++;
                 }
+            }
+            for (int rij = 0; rij < 3; rij++)
+            {
+                som = 0;
+                for (int colom = 0; colom < 3; colom++)
+                {
+                    Console.Write(array[rij, colom] + " ");
+                    som += array[rij, colom];
+                }
+                Console.Write("Som: " + som);
                 Console.WriteLine();
-
             }
         }
     }
