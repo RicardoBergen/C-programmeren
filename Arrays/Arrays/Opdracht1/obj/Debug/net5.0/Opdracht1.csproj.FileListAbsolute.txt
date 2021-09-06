@@ -1,0 +1,16 @@
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\bin\Debug\net5.0\Opdracht1.exe
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\bin\Debug\net5.0\Opdracht1.deps.json
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\bin\Debug\net5.0\Opdracht1.runtimeconfig.json
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\bin\Debug\net5.0\Opdracht1.runtimeconfig.dev.json
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\bin\Debug\net5.0\Opdracht1.dll
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\bin\Debug\net5.0\ref\Opdracht1.dll
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\bin\Debug\net5.0\Opdracht1.pdb
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\obj\Debug\net5.0\Opdracht1.csprojAssemblyReference.cache
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\obj\Debug\net5.0\Opdracht1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\obj\Debug\net5.0\Opdracht1.AssemblyInfoInputs.cache
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\obj\Debug\net5.0\Opdracht1.AssemblyInfo.cs
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\obj\Debug\net5.0\Opdracht1.csproj.CoreCompileInputs.cache
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\obj\Debug\net5.0\Opdracht1.dll
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\obj\Debug\net5.0\ref\Opdracht1.dll
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\obj\Debug\net5.0\Opdracht1.pdb
+D:\Github\C-programmeren\Arrays\Arrays\Opdracht1\obj\Debug\net5.0\Opdracht1.genruntimeconfig.cache
