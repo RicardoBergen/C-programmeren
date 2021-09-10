@@ -1,0 +1,16 @@
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\bin\Debug\net5.0\Opdracht2.exe
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\bin\Debug\net5.0\Opdracht2.deps.json
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\bin\Debug\net5.0\Opdracht2.runtimeconfig.json
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\bin\Debug\net5.0\Opdracht2.runtimeconfig.dev.json
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\bin\Debug\net5.0\Opdracht2.dll
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\bin\Debug\net5.0\ref\Opdracht2.dll
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\bin\Debug\net5.0\Opdracht2.pdb
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.csprojAssemblyReference.cache
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.AssemblyInfoInputs.cache
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.AssemblyInfo.cs
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.csproj.CoreCompileInputs.cache
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.dll
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\obj\Debug\net5.0\ref\Opdracht2.dll
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.pdb
+D:\Github\C-programmeren\Getallen\Getallen\Opdracht2\obj\Debug\net5.0\Opdracht2.genruntimeconfig.cache
