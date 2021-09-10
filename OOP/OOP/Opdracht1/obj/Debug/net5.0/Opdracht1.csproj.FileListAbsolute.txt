@@ -1,0 +1,12 @@
+D:\Github\C-programmeren\OOP\OOP\Opdracht1\bin\Debug\net5.0\Personen.deps.json
+D:\Github\C-programmeren\OOP\OOP\Opdracht1\bin\Debug\net5.0\Personen.dll
+D:\Github\C-programmeren\OOP\OOP\Opdracht1\bin\Debug\net5.0\ref\Personen.dll
+D:\Github\C-programmeren\OOP\OOP\Opdracht1\bin\Debug\net5.0\Personen.pdb
+D:\Github\C-programmeren\OOP\OOP\Opdracht1\obj\Debug\net5.0\Opdracht1.csprojAssemblyReference.cache
+D:\Github\C-programmeren\OOP\OOP\Opdracht1\obj\Debug\net5.0\Opdracht1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\C-programmeren\OOP\OOP\Opdracht1\obj\Debug\net5.0\Opdracht1.AssemblyInfoInputs.cache
+D:\Github\C-programmeren\OOP\OOP\Opdracht1\obj\Debug\net5.0\Opdracht1.AssemblyInfo.cs
+D:\Github\C-programmeren\OOP\OOP\Opdracht1\obj\Debug\net5.0\Opdracht1.csproj.CoreCompileInputs.cache
+D:\Github\C-programmeren\OOP\OOP\Opdracht1\obj\Debug\net5.0\Personen.dll
+D:\Github\C-programmeren\OOP\OOP\Opdracht1\obj\Debug\net5.0\ref\Personen.dll
+D:\Github\C-programmeren\OOP\OOP\Opdracht1\obj\Debug\net5.0\Personen.pdb
